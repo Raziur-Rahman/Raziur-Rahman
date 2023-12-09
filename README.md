@@ -23,6 +23,7 @@
     + JWT Verification
     + User Registration
     + Login With Social
+    + Payment with stripe
     + intregration with firebase
     + User can give votes
     + Admin dashboard panel
@@ -37,7 +38,6 @@
     + JWT Verification
     + User Registration
     + Login With Social
-    + Payment with 
     + User can give votes
     <br />
 - ## Live Site
