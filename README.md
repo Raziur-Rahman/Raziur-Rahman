@@ -1,3 +1,8 @@
+<a>
+<img src='./images/Cover img.png'>
+</a>
+<br />
+
 # 💫 About Me:
 🔭 I’m currently working - on my personal project now<br>👯 I’m looking to collaborate - on any open source project<br>🌱 I’m currently learning - next.js for web development<br>⚡ Fun fact - I love to make website and I know 3 programming language
 
@@ -12,10 +17,52 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Raziur-Rahman&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raziur-Rahman&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+# Projects
++ ## Tech Discoveria
+    + Authentication
+    + JWT Verification
+    + User Registration
+    + Login With Social
+    + intregration with firebase
+    + User can give votes
+    + Admin dashboard panel
+    <br />
+- ## Live Site
+- __[Tech Discoveria](https://tech-discoveria.web.app/)__ - Take a tour of this Project
+
+---
+
++ ## Serenity Haven
+    + Authentication
+    + JWT Verification
+    + User Registration
+    + Login With Social
+    + Payment with 
+    + User can give votes
+    <br />
+- ## Live Site
+
+- __[Serenity Haven](https://b8a11-serenity-haven.web.app/)__ - Take a tour of this Project
+
+---
+
++ ## Global Tech
+    + Authentication
+    + JWT Verification
+    + User Registration
+    + Login With Social
+    + Dynamic Cart
+    + User can Add Products
+    <br />
+- ## Live Site
+
+- __[Serenity Haven](https://b8a11-serenity-haven.web.app/)__ - Take a tour of this Project
+
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Raziur-Rahman&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Raziur-Rahman&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
