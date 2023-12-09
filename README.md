@@ -1,4 +1,4 @@
-<a>
+<a href='https://web.facebook.com/rajiurrahman.raju.1'>
 <img src='./images/Cover img.png'>
 </a>
 <br />
@@ -56,7 +56,7 @@
     <br />
 - ## Live Site
 
-- __[Serenity Haven](https://b8a11-serenity-haven.web.app/)__ - Take a tour of this Project
+- __[Global Tech](https://brand-shop-client-8fc69.web.app/)__ - Take a tour of this Project
 
 ---
 
