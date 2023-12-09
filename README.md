@@ -2,6 +2,8 @@
 <img src='./images/Cover img.png'>
 </a>
 <br />
+<h1 align="center">Hi <img src = "./images/hi.gif" width="50px" height="40px">, I'm Raziur Rahman</h1>  
+<h3 align="center">A passionate Web Developer from 🇧🇩</h3>  
 
 # 💫 About Me:
 🔭 I’m currently working - on my personal project now<br>👯 I’m looking to collaborate - on any open source project<br>🌱 I’m currently learning - next.js for web development<br>⚡ Fun fact - I love to make website and I know 3 programming language
